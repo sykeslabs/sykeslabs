@@ -1,4 +1,4 @@
-### Data Architecture & Integration · Data & Analytics · Applied AI
+### Data Engineering & Integration · Data & Analytics · Applied AI
 
 I design and build the data layer underneath business processes: data warehouses and
 platforms, API-based integration, and the analytics on top. Nearly 20 years in IT,
